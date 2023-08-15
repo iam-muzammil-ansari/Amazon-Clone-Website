@@ -18,7 +18,7 @@ This is a simple HTML and CSS template that resembles the layout of an Amazon-li
 1. Clone or download the repository.
 
 ```bash
-git clone 
+git clone https://github.com/iam-muzammil-ansari/Amazon-Clone-Website.git
 ```
 
 2. Open the `index.html` file in a web browser to see the website.
